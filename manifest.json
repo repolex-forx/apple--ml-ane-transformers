@@ -1,0 +1,44 @@
+{
+  "manifest_version": "1.0",
+  "org": "apple",
+  "repo": "ml-ane-transformers",
+  "versions": [
+    {
+      "commit": "da64000fa56cc85b0859bc17cb16a3d753b8304a",
+      "parsed_at": "2026-04-22T00:02:36.309530+00:00",
+      "tag": "v0.1.3",
+      "filetree": "filetree/da64000fa56cc85b0859bc17cb16a3d753b8304a.nq.gz",
+      "blobs": [
+        "blob/bdd8059fd57e0ddb95375735b8fd8fb6627aa11b.nq.gz",
+        "blob/e8bf3ac0b68e8a0980554243e5addd8c49d5db2c.nq.gz",
+        "blob/44843fb6d77e675ec9cdfac2bc78796960af85c3.nq.gz",
+        "blob/30438b7acc04fd4f48ca4a5423f2b35d559b037b.nq.gz",
+        "blob/b6f55df7741c38d68f8dc591d2378dfa7cb5b0a5.nq.gz",
+        "blob/7aa670ac23e18aefef52c437029dd5540d5a1d09.nq.gz",
+        "blob/dad2ff5db843081dabd3a7f3a007c8bbdcd036f8.nq.gz",
+        "blob/a59eeb0ec72dc732c65afe4369231731df90f19e.nq.gz",
+        "blob/ef9cf18f2024e66e0377ca842008034dd30c6076.nq.gz",
+        "blob/c991377a60951acbcd7f586ebcf0184840e30e55.nq.gz",
+        "blob/aea4595aa8f952126690b58cb81df9ec12c52b03.nq.gz",
+        "blob/a3241484e68c20b7aa3aefcc445477b4c75062d7.nq.gz",
+        "blob/649894210de673468e94891b2a866537b95de6ea.nq.gz",
+        "blob/12d06bfcfdb71cc29bd953e6c370990988b1e022.nq.gz",
+        "blob/4845c22e3e01207cb451a61daeb9790fc46356bc.nq.gz",
+        "blob/07333003bfc528436b9365476269c6073e2a2674.nq.gz",
+        "blob/7971439226fd6a5a708c53aee54957b04aa3dfae.nq.gz",
+        "blob/d70da744e9813cfcaa2a93d5f201a3f8d8600de5.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/24688d48b9773ad153c8b30e739e9211ec3206f7.nq.gz",
+        "blob/766ec5290509a7803136db014515f42d3780fad2.nq.gz",
+        "blob/b14f14d3025f22f11973fc817642d8c811795cac.nq.gz",
+        "blob/c13e927915b01ebcc567e02fac5e869bbda67284.nq.gz",
+        "blob/c280260c117371ee94b830eb698bc33ddb57dcc5.nq.gz",
+        "blob/5d659ae410c78391c3134e7bff5d2815a6e930fc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
