@@ -1,0 +1,7 @@
+[2026-04-22T00:08:48Z] === AST ITERATION 1 START | repo=apple/ml-ane-transformers sha=da64000f ===
+[2026-04-22T00:08:48Z] [iter=1] PHASE START: ast repo=apple/ml-ane-transformers sha=da64000f
+[2026-04-22T00:08:48Z] [iter=1] Building AST aggregate chunks
+[2026-04-22T00:08:52Z] [iter=1] AST chunks built count=1 triples=55832
+[2026-04-22T00:08:52Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/da64000fa56cc85b0859bc17cb16a3d753b8304a/.complete
+[2026-04-22T00:08:52Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-04-22T00:08:52Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
